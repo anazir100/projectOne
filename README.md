@@ -10,3 +10,20 @@ TRMS - React TRMS, or Tuition Reimbursement Management System is a full-stack we
   CSS,
   React,
   Redux
+# Getting Started
+## git clone https://github.com/anazir100/projectOne.git
+## REACT_APP_SERVER_URI=http://localhost:3000/
+## CLIENT=http://localhost:3001
+# Usage
+  You will need an AWS account and Dynanmo Database Service.
+  1) npm install on backend folder
+  2) npm install on frontend folder
+  ## backend
+  1) npm run setup
+  2) npm run start
+  ## frontend
+  1) npm run build
+  2) npm run start
+# License
+This project uses the following license: https://opensource.org/licenses/ISC
+  
