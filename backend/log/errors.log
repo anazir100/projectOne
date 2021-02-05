@@ -1,0 +1,934 @@
+[2021-01-13T23:07:08.575] [ERROR] default - null
+[2021-01-13T23:07:58.142] [ERROR] default - ConditionalCheckFailedException: The conditional request failed
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ConditionalCheckFailedException',
+  time: 2021-01-14T04:07:58.139Z,
+  requestId: 'LB6L81SCACKNVI7B7FFVRL25OFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 8.861182397716904
+}
+[2021-01-13T23:09:16.249] [ERROR] default - null
+[2021-01-13T23:09:40.052] [ERROR] default - ConditionalCheckFailedException: The conditional request failed
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ConditionalCheckFailedException',
+  time: 2021-01-14T04:09:40.051Z,
+  requestId: '94FEKJE9IH3DA8KV61EIEU3L1FVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 33.121974013668385
+}
+[2021-01-13T23:14:12.312] [ERROR] default - null
+[2021-01-13T23:17:47.080] [ERROR] default - null
+[2021-01-13T23:18:34.420] [ERROR] default - null
+[2021-01-13T23:21:05.698] [ERROR] default - null
+[2021-01-13T23:31:52.318] [ERROR] default - null
+[2021-01-14T00:09:04.548] [ERROR] default - null
+[2021-01-14T10:11:12.419] [ERROR] default - null
+[2021-01-14T10:12:33.580] [ERROR] default - null
+[2021-01-14T10:39:11.449] [ERROR] default - null
+[2021-01-14T19:40:18.554] [ERROR] default - null
+[2021-01-14T19:41:21.700] [ERROR] default - null
+[2021-01-14T21:33:35.879] [ERROR] default - null
+[2021-01-14T21:34:11.827] [ERROR] default - null
+[2021-01-14T21:58:35.071] [ERROR] default - null
+[2021-01-14T21:59:17.176] [ERROR] default - null
+[2021-01-14T22:11:49.127] [ERROR] default - ConditionalCheckFailedException: The conditional request failed
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ConditionalCheckFailedException',
+  time: 2021-01-15T03:11:49.126Z,
+  requestId: '7U89R4BSV3IKAU60ID1P74R7SVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 3.596982433232776
+}
+[2021-01-14T22:14:15.983] [ERROR] default - null
+[2021-01-14T23:34:22.220] [ERROR] default - null
+[2021-01-14T23:39:43.965] [ERROR] default - null
+[2021-01-15T12:42:04.636] [ERROR] default - null
+[2021-01-15T12:58:08.052] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T17:58:08.051Z,
+  requestId: '5UTCG3CGHDAM28UNN9TUN4AT2RVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 12.287783677883546
+}
+[2021-01-15T12:59:25.562] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T17:59:25.562Z,
+  requestId: 'PVKB4OF8A9E74424KFME8LL3V3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 20.9581569427579
+}
+[2021-01-15T12:59:52.517] [ERROR] default - null
+[2021-01-15T14:00:47.932] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:00:47.931Z,
+  requestId: '4QTDJCC1K4E49Q8QNUC5I4REUFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 24.34824492162044
+}
+[2021-01-15T14:04:00.536] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:04:00.536Z,
+  requestId: 'GNUQO27AO51AF27IP25VSTCUBVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 14.667489884226914
+}
+[2021-01-15T14:17:18.408] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:17:18.408Z,
+  requestId: 'J8JDGH0LTMIPD02JO30S3OFJDFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 5.619205056102395
+}
+[2021-01-15T14:19:10.382] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:19:10.382Z,
+  requestId: '017EV10NDQ6DAOGAK04C81P4S7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 46.70641852998689
+}
+[2021-01-15T14:29:52.622] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:29:52.622Z,
+  requestId: 'OQNR19B66LHOUL95NC4RNGJQQNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 44.008148151997084
+}
+[2021-01-15T14:38:47.889] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:38:47.889Z,
+  requestId: '123D4UELOE5KVIO4JQQHCUR1GJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 5.580312453403891
+}
+[2021-01-15T14:50:39.303] [ERROR] default - null
+[2021-01-15T14:52:10.322] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:52:10.322Z,
+  requestId: 'NSG6AJ7UT65FGJA2GOONVG43Q7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 25.195571704562557
+}
+[2021-01-15T14:53:38.444] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:53:38.444Z,
+  requestId: '98O31OGSSFROM5U1BK04FTUEIVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 24.55884144145626
+}
+[2021-01-15T14:57:29.347] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T19:57:29.347Z,
+  requestId: 'IORRECP2ENI8V90FVIPHVT6L7JVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 25.304898554376187
+}
+[2021-01-15T15:02:42.393] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T20:02:42.393Z,
+  requestId: 'ILF6TA6QAJ4EF0EBEB96IAS203VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 0.6683468671429327
+}
+[2021-01-15T15:14:15.397] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T20:14:15.397Z,
+  requestId: 'J3M2EDDGEFV7935HOK89FLE4LRVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 26.25038634332969
+}
+[2021-01-15T15:15:56.878] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T20:15:56.878Z,
+  requestId: 'B8RFSFQH6O43U0IOV3KIO0K0RBVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 25.73982492932506
+}
+[2021-01-15T15:18:19.483] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T20:18:19.483Z,
+  requestId: 'FG0VPNLD7LIC6BMKD26PHSC3BNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 42.13409912966857
+}
+[2021-01-15T15:19:51.528] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T20:19:51.528Z,
+  requestId: 'I05Q1N8NT4D8RTVVT0SE9F9CDNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 8.165326661939554
+}
+[2021-01-15T15:34:19.917] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T20:34:19.917Z,
+  requestId: '70DHUUO6EE0NLBNCF3L86H8C1VVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 19.957671136478915
+}
+[2021-01-15T15:42:41.710] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T20:42:41.710Z,
+  requestId: '1KOOKCUQ1SH4R86MA4FQV7VC9FVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 34.059833770368144
+}
+[2021-01-15T15:46:15.089] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T20:46:15.089Z,
+  requestId: 'E19JEFSU134S4N6UMH9OB3JQH3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 17.091528321758798
+}
+[2021-01-15T16:02:07.989] [ERROR] default - ConditionalCheckFailedException: The conditional request failed
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ConditionalCheckFailedException',
+  time: 2021-01-15T21:02:07.988Z,
+  requestId: 'CCMLDEVFRLSKD9A92F9OQ0LBHBVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 28.74769221093728
+}
+[2021-01-15T16:27:41.296] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T21:27:41.295Z,
+  requestId: 'FJAC2VA5HJI22EFFUK9QDT557NVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 36.918845626155196
+}
+[2021-01-15T16:38:43.473] [ERROR] default - ValidationException: Empty attribute name
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T21:38:43.472Z,
+  requestId: 'KE5KHF8SR5N9S5DEOU847G8HVNVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 20.82695524624739
+}
+[2021-01-15T16:48:10.254] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T21:48:10.254Z,
+  requestId: 'I3N2O7D594VE23LH5AKU8T5VQRVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 38.04743935851732
+}
+[2021-01-15T16:49:07.746] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T21:49:07.746Z,
+  requestId: 'GT6E7QMI7L687OURP5UB45REPRVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 39.32500707956108
+}
+[2021-01-15T16:50:51.542] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T21:50:51.541Z,
+  requestId: 'DNRKCEPHGDGH5CF3M55G8LLRCVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 16.47392138376619
+}
+[2021-01-15T17:13:08.359] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T22:13:08.358Z,
+  requestId: '7O5FUDP3GAFL2AO9DVGLQLI5QFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 10.275218859442859
+}
+[2021-01-15T17:14:27.741] [ERROR] default - ValidationException: One or more parameter values were invalid: Type mismatch for key id expected: N actual: S
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-15T22:14:27.740Z,
+  requestId: '2CVAMRAA85LJ13V5S4GINKVBOVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 17.270560392326196
+}
+[2021-01-15T17:29:45.228] [ERROR] default - ConditionalCheckFailedException: The conditional request failed
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ConditionalCheckFailedException',
+  time: 2021-01-15T22:29:45.228Z,
+  requestId: 'SNDN44U2RUQP6LI4ON61M3B6URVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 48.29424982192253
+}
+[2021-01-15T20:08:28.456] [ERROR] default - null
+[2021-01-15T23:22:02.060] [ERROR] default - null
+[2021-01-16T00:06:02.337] [ERROR] default - null
+[2021-01-16T00:07:22.183] [ERROR] default - null
+[2021-01-16T00:07:41.469] [ERROR] default - null
+[2021-01-16T00:15:42.800] [ERROR] default - null
+[2021-01-16T00:16:44.422] [ERROR] default - null
+[2021-01-16T00:26:18.406] [ERROR] default - null
+[2021-01-16T00:26:37.697] [ERROR] default - null
+[2021-01-16T00:29:20.262] [ERROR] default - null
+[2021-01-16T00:30:27.175] [ERROR] default - null
+[2021-01-16T00:30:46.912] [ERROR] default - null
+[2021-01-16T00:31:07.066] [ERROR] default - null
+[2021-01-16T00:31:50.139] [ERROR] default - null
+[2021-01-16T00:32:53.634] [ERROR] default - null
+[2021-01-16T00:33:19.222] [ERROR] default - null
+[2021-01-16T00:33:41.883] [ERROR] default - null
+[2021-01-16T17:04:18.449] [ERROR] default - null
+[2021-01-16T17:05:08.030] [ERROR] default - null
+[2021-01-16T17:05:30.907] [ERROR] default - null
+[2021-01-16T17:05:56.692] [ERROR] default - null
+[2021-01-16T17:21:11.359] [ERROR] default - null
+[2021-01-16T17:22:20.225] [ERROR] default - null
+[2021-01-16T17:23:16.762] [ERROR] default - null
+[2021-01-16T18:30:44.106] [ERROR] default - null
+[2021-01-16T18:46:08.120] [ERROR] default - null
+[2021-01-16T19:07:51.480] [ERROR] default - null
+[2021-01-16T19:08:24.401] [ERROR] default - null
+[2021-01-16T19:09:58.086] [ERROR] default - null
+[2021-01-16T19:10:31.310] [ERROR] default - null
+[2021-01-16T19:12:28.940] [ERROR] default - null
+[2021-01-16T19:12:58.626] [ERROR] default - null
+[2021-01-16T19:14:26.638] [ERROR] default - null
+[2021-01-16T19:14:46.262] [ERROR] default - null
+[2021-01-16T19:16:36.511] [ERROR] default - null
+[2021-01-16T19:32:13.247] [ERROR] default - null
+[2021-01-16T19:33:15.367] [ERROR] default - null
+[2021-01-16T19:33:56.877] [ERROR] default - null
+[2021-01-16T19:45:57.224] [ERROR] default - null
+[2021-01-16T21:26:54.953] [ERROR] default - null
+[2021-01-17T00:27:42.686] [ERROR] default - null
+[2021-01-17T00:32:16.182] [ERROR] default - null
+[2021-01-17T12:44:43.377] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2021-01-17T17:44:43.376Z,
+  requestId: 'LPV4O3H71N2PQNT846MJ7QA823VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 48.306691385575206
+}
+[2021-01-17T12:44:43.394] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2021-01-17T17:44:43.394Z,
+  requestId: 'CT2FIQU2C7B4B8OIDSR502GE0RVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 40.41263706766568
+}
+[2021-01-17T12:44:43.481] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2021-01-17T17:44:43.481Z,
+  requestId: '02O7C3NT7FIKGU8RSIAGL73NHBVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 30.387739142395475
+}
+[2021-01-17T12:44:43.613] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2021-01-17T17:44:43.613Z,
+  requestId: 'UJTFHVTI14P0SD3TE1ASNB0LU3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 27.045159764110128
+}
+[2021-01-17T12:44:43.685] [ERROR] default - ResourceNotFoundException: Requested resource not found
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ResourceNotFoundException',
+  time: 2021-01-17T17:44:43.684Z,
+  requestId: '6D9U3IJLNSS3HEJ2AIQI88MIAJVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 38.14257277765717
+}
+[2021-01-17T13:03:31.076] [ERROR] default - null
+[2021-01-17T13:04:47.644] [ERROR] default - null
+[2021-01-17T13:14:34.467] [ERROR] default - ValidationException: Invalid UpdateExpression: An expression attribute name used in the document path is not defined; attribute name: #approve
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-17T18:14:34.465Z,
+  requestId: 'S80ICCN99GH074162FKNJ7MUCVVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 0.9987084854682915
+}
+[2021-01-17T13:26:31.094] [ERROR] default - null
+[2021-01-17T13:38:30.407] [ERROR] default - null
+[2021-01-17T15:35:17.197] [ERROR] default - null
+[2021-01-17T15:37:14.817] [ERROR] default - null
+[2021-01-17T15:38:13.558] [ERROR] default - null
+[2021-01-17T15:38:50.753] [ERROR] default - null
+[2021-01-17T15:50:34.078] [ERROR] default - null
+[2021-01-17T15:54:14.674] [ERROR] default - null
+[2021-01-17T16:10:56.738] [ERROR] default - ValidationException: The parameter cannot be converted to a numeric value: NaN
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-17T21:10:56.736Z,
+  requestId: 'PSBCOBVF2DTKBU41QS3BFNINRFVV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 37.913170983577274
+}
+[2021-01-17T16:26:41.462] [ERROR] default - null
+[2021-01-17T16:27:14.091] [ERROR] default - null
+[2021-01-17T16:45:33.457] [ERROR] default - null
+[2021-01-17T16:46:40.128] [ERROR] default - null
+[2021-01-17T16:47:10.824] [ERROR] default - null
+[2021-01-17T16:49:11.390] [ERROR] default - null
+[2021-01-17T16:50:03.826] [ERROR] default - null
+[2021-01-17T16:50:52.542] [ERROR] default - null
+[2021-01-17T16:59:56.569] [ERROR] default - null
+[2021-01-17T17:01:27.150] [ERROR] default - null
+[2021-01-17T17:02:16.552] [ERROR] default - null
+[2021-01-17T17:04:11.884] [ERROR] default - null
+[2021-01-17T17:07:43.164] [ERROR] default - null
+[2021-01-17T17:23:01.427] [ERROR] default - null
+[2021-01-17T17:24:28.508] [ERROR] default - null
+[2021-01-17T17:25:14.384] [ERROR] default - null
+[2021-01-17T17:28:20.316] [ERROR] default - null
+[2021-01-17T17:47:44.610] [ERROR] default - null
+[2021-01-17T17:55:32.220] [ERROR] default - null
+[2021-01-17T17:57:09.244] [ERROR] default - null
+[2021-01-17T18:57:57.455] [ERROR] default - null
+[2021-01-17T18:58:50.793] [ERROR] default - null
+[2021-01-17T18:59:51.889] [ERROR] default - null
+[2021-01-17T19:00:58.712] [ERROR] default - null
+[2021-01-17T19:41:07.725] [ERROR] default - null
+[2021-01-17T19:42:11.227] [ERROR] default - null
+[2021-01-17T19:43:20.636] [ERROR] default - null
+[2021-01-18T11:53:41.586] [ERROR] default - null
+[2021-01-18T11:55:04.664] [ERROR] default - null
+[2021-01-18T11:56:01.668] [ERROR] default - null
+[2021-01-18T12:02:25.559] [ERROR] default - null
+[2021-01-18T12:10:57.641] [ERROR] default - null
+[2021-01-18T13:13:40.563] [ERROR] default - null
+[2021-01-18T13:33:21.386] [ERROR] default - null
+[2021-01-18T13:44:19.466] [ERROR] default - null
+[2021-01-18T13:45:29.834] [ERROR] default - null
+[2021-01-18T13:55:13.484] [ERROR] default - null
+[2021-01-18T13:55:20.147] [ERROR] default - null
+[2021-01-18T13:55:39.945] [ERROR] default - null
+[2021-01-18T13:56:26.178] [ERROR] default - null
+[2021-01-18T13:57:05.134] [ERROR] default - null
+[2021-01-18T13:57:48.446] [ERROR] default - null
+[2021-01-18T14:26:46.390] [ERROR] default - null
+[2021-01-18T14:29:29.035] [ERROR] default - null
+[2021-01-18T14:31:52.153] [ERROR] default - null
+[2021-01-18T22:51:45.632] [ERROR] default - null
+[2021-01-18T22:53:07.910] [ERROR] default - null
+[2021-01-18T22:54:02.005] [ERROR] default - null
+[2021-01-18T22:54:56.685] [ERROR] default - null
+[2021-01-18T23:42:06.461] [ERROR] default - null
+[2021-01-18T23:43:11.389] [ERROR] default - null
+[2021-01-18T23:44:04.175] [ERROR] default - null
+[2021-01-18T23:44:42.634] [ERROR] default - null
+[2021-01-18T23:45:34.200] [ERROR] default - null
+[2021-01-19T00:02:07.486] [ERROR] default - null
+[2021-01-19T00:02:45.465] [ERROR] default - null
+[2021-01-19T00:03:06.655] [ERROR] default - null
+[2021-01-19T00:08:30.507] [ERROR] default - null
+[2021-01-19T00:09:00.264] [ERROR] default - null
+[2021-01-19T00:09:28.786] [ERROR] default - null
+[2021-01-19T00:10:58.174] [ERROR] default - null
+[2021-01-19T00:11:20.801] [ERROR] default - null
+[2021-01-19T00:42:55.135] [ERROR] default - null
+[2021-01-19T15:26:07.152] [ERROR] default - null
+[2021-01-19T15:27:35.526] [ERROR] default - null
+[2021-01-19T15:28:18.512] [ERROR] default - null
+[2021-01-19T15:33:25.490] [ERROR] default - null
+[2021-01-19T15:33:46.404] [ERROR] default - null
+[2021-01-19T16:12:18.144] [ERROR] default - null
+[2021-01-19T16:13:00.333] [ERROR] default - null
+[2021-01-19T16:13:41.866] [ERROR] default - null
+[2021-01-19T16:14:57.625] [ERROR] default - null
+[2021-01-19T16:17:10.541] [ERROR] default - null
+[2021-01-19T16:17:50.351] [ERROR] default - null
+[2021-01-19T16:18:35.727] [ERROR] default - null
+[2021-01-19T16:20:04.905] [ERROR] default - null
+[2021-01-19T16:21:31.224] [ERROR] default - null
+[2021-01-19T16:22:20.371] [ERROR] default - null
+[2021-01-19T16:24:58.603] [ERROR] default - null
+[2021-01-19T16:29:38.665] [ERROR] default - null
+[2021-01-19T16:30:43.818] [ERROR] default - null
+[2021-01-19T16:31:24.413] [ERROR] default - null
+[2021-01-19T16:31:50.712] [ERROR] default - null
+[2021-01-19T16:32:29.742] [ERROR] default - null
+[2021-01-19T16:33:17.242] [ERROR] default - null
+[2021-01-19T16:34:50.934] [ERROR] default - null
+[2021-01-19T16:46:41.860] [ERROR] default - null
+[2021-01-19T16:50:23.502] [ERROR] default - null
+[2021-01-19T17:01:16.931] [ERROR] default - null
+[2021-01-19T17:01:34.997] [ERROR] default - null
+[2021-01-19T17:01:56.200] [ERROR] default - null
+[2021-01-19T17:02:21.061] [ERROR] default - null
+[2021-01-19T17:02:40.097] [ERROR] default - null
+[2021-01-19T17:11:03.082] [ERROR] default - null
+[2021-01-19T17:13:14.427] [ERROR] default - null
+[2021-01-19T17:14:45.696] [ERROR] default - null
+[2021-01-19T17:16:07.962] [ERROR] default - null
+[2021-01-19T17:17:15.898] [ERROR] default - null
+[2021-01-19T17:17:40.607] [ERROR] default - null
+[2021-01-19T17:28:10.963] [ERROR] default - null
+[2021-01-19T17:28:31.713] [ERROR] default - null
+[2021-01-19T17:28:55.161] [ERROR] default - null
+[2021-01-19T17:29:20.009] [ERROR] default - null
+[2021-01-19T19:40:09.449] [ERROR] default - null
+[2021-01-19T19:42:45.093] [ERROR] default - null
+[2021-01-19T19:52:46.405] [ERROR] default - null
+[2021-01-19T19:53:25.815] [ERROR] default - null
+[2021-01-19T19:58:07.196] [ERROR] default - null
+[2021-01-19T20:00:19.281] [ERROR] default - null
+[2021-01-19T20:14:41.258] [ERROR] default - ValidationException: The parameter cannot be converted to a numeric value: NaN
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-20T01:14:41.257Z,
+  requestId: '4J2VMHVU8681KLUGE8OM7QN9H7VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 37.78497696625285
+}
+[2021-01-19T21:47:47.918] [ERROR] default - null
+[2021-01-19T21:49:17.060] [ERROR] default - null
+[2021-01-19T21:50:33.524] [ERROR] default - null
+[2021-01-19T21:53:08.123] [ERROR] default - null
+[2021-01-19T21:54:43.045] [ERROR] default - null
+[2021-01-19T21:56:17.623] [ERROR] default - null
+[2021-01-20T11:13:44.641] [ERROR] default - null
+[2021-01-20T11:14:10.305] [ERROR] default - null
+[2021-01-20T13:34:39.497] [ERROR] default - null
+[2021-01-20T16:43:26.324] [ERROR] default - null
+[2021-01-20T16:44:28.560] [ERROR] default - ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :esd
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-20T21:44:28.559Z,
+  requestId: 'G533RPVGMK67D58V27MR2M8LK3VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 27.270330171162836
+}
+[2021-01-20T16:44:29.197] [ERROR] default - ValidationException: Invalid UpdateExpression: An expression attribute value used in expression is not defined; attribute value: :esd
+    at Request.extractError (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\protocol\json.js:52:27)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:106:20)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:78:10)
+    at Request.emit (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:688:14)
+    at Request.transition (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:22:10)
+    at AcceptorStateMachine.runTo (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:14:12)
+    at C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\state_machine.js:26:10
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:38:9)
+    at Request.<anonymous> (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\request.js:690:12)
+    at Request.callListeners (C:\Users\Asad Nazir\Desktop\Revature_Training\Revature_Git\2012-dec14-react\projectOne\backend\node_modules\aws-sdk\lib\sequential_executor.js:116:18) {
+  code: 'ValidationException',
+  time: 2021-01-20T21:44:29.197Z,
+  requestId: '7CS5A8G8H1GP2JFDROM1E22017VV4KQNSO5AEMVJF66Q9ASUAAJG',
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 48.1521692296196
+}
+[2021-01-20T16:44:38.283] [ERROR] default - null
+[2021-01-20T16:45:17.593] [ERROR] default - null
