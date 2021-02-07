@@ -15,7 +15,7 @@ TRMS - React TRMS, or Tuition Reimbursement Management System is a full-stack we
 ## REACT_APP_SERVER_URI=http://localhost:3000/
 ## CLIENT=http://localhost:3001
 # Usage
-  You will need an AWS account and Dynanmo Database Service.
+  You will need an AWS account and Dynamo Database Service.
   1) npm install on backend folder
   2) npm install on frontend folder
   ## backend
